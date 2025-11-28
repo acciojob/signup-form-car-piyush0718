@@ -1,9 +1,14 @@
-form{
+  form{
 	font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 20px;
-	text-shadow: 2px 4px 6px grey;
+	text-shadow: 2px 4px 6px 8px grey;
+	background: skyblue;
+    width: 300px;
+    border-radius: 20px;
+    border: 3px solid black;;
+
 }
 input{
-	margin:8px;
+	margin:6px;
 
 }
